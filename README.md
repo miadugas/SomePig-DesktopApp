@@ -7,4 +7,4 @@ A simple desktop app that displays contents of the index.html + version info of 
 Download link: https://tinyurl.com/wdrnre6
 
 Or preview with confidence TinyURL:https://preview.tinyurl.com/wdrnre6
-
+![Image of Some Pig app!- about](https://github.com/miadugas/SomePig-DesktopApp/blob/master/Some pig.png)
